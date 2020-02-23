@@ -1,1 +1,1 @@
-# СPP--final project in "computer academ STEP"
+# СPP-final project in "computer academ STEP"
